@@ -357,7 +357,7 @@
 				setTimeout(function(){
 					canvas.addEventListener("touchstart",onTouch);
 					canvas.addEventListener("mousedown",onTouch);
-					checkRotation();
+					//checkRotation();
 					changeState();
 				},1500);
 			}
@@ -1831,7 +1831,7 @@
 	//****************************
 	window.onresize = function() {
 		offsetX = canvas.offsetLeft;
-		offsetY = container.offsetTop;
+		offsetY = canvas.offsetTop;
 		//checkRotation()
 	};
 

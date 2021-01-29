@@ -12,7 +12,7 @@ html,body{
 #container{
     height: 100%;
     width: auto;
-    max-height: 640px;
+    max-height: 546px;
     max-width: 420px;
     margin: 0 auto;
 }
@@ -22,5 +22,6 @@ canvas{
     display: block;
     height: 100%;
     width: auto;
+    margin: 0 auto;
 }
 
