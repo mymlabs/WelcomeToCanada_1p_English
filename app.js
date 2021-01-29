@@ -29,7 +29,7 @@
 		offsetY = canvas.offsetTop;
 		INPUT_TYPE = null;
 		wrongOrientation = false;
-		filesToLoad = 48;
+		filesToLoad = 52;
 		filesLoaded = 0;
 		GAME_STATE = "loading";
 		gameLoaded = false;
