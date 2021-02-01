@@ -170,7 +170,7 @@
 			["NorWest Co-op Community Health","https://norwestcoop.ca/",halfWidth,177],
 			["Aurora Family Therapy Centre","http://www.aurorafamilytherapy.com/newcomer.html",halfWidth,220],
 			["Macdonald Youth Services","https://www.mys.ca/services/youth-crisis-services",halfWidth,265],
-			["Immigrant and Refugee Community Organization of Manitoba (IRCOM)","https://www.ircom.ca/",halfWidth,297],
+			["Immigrant and Refugee Community Organization of Manitoba (IRCOM)","https://www.ircom.ca/",halfWidth,304],
 			["New Journey Housing","https://www.newjourneyhousing.com/",halfWidth,370],
 			["Klinic Community Health","http://klinic.mb.ca/",halfWidth,414],
 			["Kids Help Phone","https://kidshelpphone.ca/",halfWidth,458],
@@ -998,7 +998,7 @@
 
 
 				c.drawImage(questionBG,1,7);
-				c.drawImage(resourceHdr,138,30);
+				c.drawImage(resourceHdr,138,34);
 				c.drawImage(okButton,342,488);
 
 				activeURLButtons.forEach(function(urlButtonObject,index){
