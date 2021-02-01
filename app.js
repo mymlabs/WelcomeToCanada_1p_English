@@ -1415,7 +1415,7 @@
 					}
 
 					//More resources button
-					if(modelY > 203 && modelY < 295){
+					if(modelY > 203 && modelX < 295){
 						if(modelX > 159 && modelX < 260){
 							showEndResources = true;
 						}
